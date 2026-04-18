@@ -18,3 +18,5 @@
 3. Configurar .env
 4. Executar:
 python -m streamlit run app/main.py
+
+<img width="2545" height="1260" alt="image" src="https://github.com/user-attachments/assets/42f787e6-eb5d-4ad6-9187-f1de6bb05f11" />
