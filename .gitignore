@@ -1,0 +1,13 @@
+# Ambiente virtual
+venv/
+
+# Variáveis sensíveis
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
